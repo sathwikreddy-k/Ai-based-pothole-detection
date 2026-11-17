@@ -1,0 +1,15 @@
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated at runtime
+multiple_locations.html
+
+# Old model backup
+pothole_old.pt
